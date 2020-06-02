@@ -13,3 +13,5 @@ TODO:
 * Could Machine Learning
 * Web App
 
+
+For more information please read 'Cloud Checkout Documentation Package.'
